@@ -10,7 +10,7 @@
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
   "bin": {
-    "node-package-cli": "index.js"
+    "npc": "index.js"
   },
   "engines": {
     "node": ">=8",
