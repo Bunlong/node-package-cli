@@ -5,7 +5,7 @@
   "repository": "bunlong/node-package-cli",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava -v && standard *.js lib/*.js"
   },
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
